@@ -1,0 +1,18 @@
+1. 
+git config --global user.name xxx
+git config --global user.email xxxx
+git config --list
+
+生成密钥
+ssh-keygen -t rsa -C keltonxue@163.com
+
+
+2.
+git init
+git status,
+git add .
+git add <file>
+git commit -m ""
+git log
+
+
